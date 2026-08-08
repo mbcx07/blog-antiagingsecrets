@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://antiagingsecrets.net/blog-antiagingsecrets/sitemap.xml
